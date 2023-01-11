@@ -40,8 +40,7 @@
 
 ## 👨‍👩‍👧‍👧 참여 인원
 
-||![image](https://user-images.githubusercontent.com/99253403/211563396-1939db91-d2cb-4d57-a51d-5f388cc86b1e.png)|![image](https://user-images.githubusercontent.com/99253403/211563364-98d1cfa8-f1e4-46cd-a823-c9603e266dc2.png)|![image](https://user-images.githubusercontent.com/99253403/211563287-77877c84-2ca6-4af6-a907-7b76f7b9d5cf.png)|
-|:---:|:---:|:---:|
 |name|김재욱|오기쁨|
+|:---:|:---:|:---:|
 |github|[@woogie911](https://github.com/woogie911)|[@joyfive](https://github.com/joyfive)|
 |Skills|JavaScript, React|JavaScript, React|
